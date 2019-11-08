@@ -1,0 +1,21 @@
+pip install gym
+pip install ipython
+pip install ipython-genutils
+pip install ipywidgets
+pip install jupyter
+pip install jupyter-client
+pip install jupyter-console
+pip install jupyter-core
+pip install matplotlib
+pip install numpy
+pip install numpydoc
+pip install opencv-python
+pip install pandas
+pip install Pillow
+pip install pygame
+pip install tensorboard
+pip install tensorflow-gpu
+
+pip install widgetsnbextension
+
+conda install pytorch torchvision cudatoolkit=9.0 -c pytorch
